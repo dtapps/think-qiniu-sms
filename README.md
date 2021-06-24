@@ -5,6 +5,7 @@
 📦 ThinkPHP6七牛云短信扩展包
 
 [![Code Health](https://hn.devcloud.huaweicloud.com/codecheck/v1/codecheck/task/codehealth.svg?taskId=7f6315dba5174c6f919258313e055f1d)](https://hn.devcloud.huaweicloud.com/codecheck/project/b7a03c9ea96e40cb93fed6e23a27a7be/codecheck/task/7f6315dba5174c6f919258313e055f1d/detail)
+[![Build Status](https://hn.devcloud.huaweicloud.com/codeci/v5/badge.svg?job_id=f537b003718b42dfa24d336574216fdb&branch=v6&language=zh-cn)](https://hn.devcloud.huaweicloud.com/codeci/project/b7a03c9ea96e40cb93fed6e23a27a7be/codeci/detail/workspace/f537b003718b42dfa24d336574216fdb)
 [![Latest Stable Version](https://poser.pugx.org/dtapps/think-qiniu-sms/v/stable)](https://packagist.org/packages/dtapps/think-qiniu-sms)
 [![Latest Unstable Version](https://poser.pugx.org/dtapps/think-qiniu-sms/v/unstable)](https://packagist.org/packages/dtapps/think-qiniu-sms)
 [![Total Downloads](https://poser.pugx.org/dtapps/think-qiniu-sms/downloads)](https://packagist.org/packages/dtapps/think-qiniu-sms)
