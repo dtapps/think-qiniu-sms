@@ -1,0 +1,45 @@
+{
+  "name": "dtapps/think-qiniu-sms",
+  "description": "ThinkPHP6七牛云短信扩展包",
+  "keywords": [
+    "dtapp",
+    "qiniu",
+    "sms",
+    "think",
+    "thinkphp"
+  ],
+  "time": "2020-06-23",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chaim",
+      "email": "gc@liguangchun.cn",
+      "homepage": "https://api.dtapp.net"
+    }
+  ],
+  "homepage": "https://www.dtapp.net",
+  "require": {
+    "php": ">=7.1",
+    "ext-json": "*",
+    "topthink/framework": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "dtapps\\qiniu\\sms\\": "src"
+    }
+  },
+  "extra": {
+    "think": {
+      "services": [
+        "dtapps\\qiniu\\sms\\Service"
+      ]
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
