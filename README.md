@@ -51,10 +51,6 @@
 [comment]: <> (gitlab.com)
 [![gitlab (.com)](https://gitlab.com/dtapps/think-qiniu-sms/badges/v6/pipeline.svg)](https://gitlab.com/dtapps/think-qiniu-sms)
 
-[comment]: <> (codechina.csdn.net)
-[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/think-qiniu-sms/badges/v6/pipeline.svg)](https://codechina.csdn.net/dtapps/think-qiniu-sms)
-
-
 ## 依赖环境
 
 1. PHP7.1 版本及以上
