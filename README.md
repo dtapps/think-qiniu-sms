@@ -25,7 +25,7 @@
 [![branches](https://badgen.net/github/branches/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/branches)
 [![releases](https://badgen.net/github/releases/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/releases)
 [![tags](https://badgen.net/github/tags/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/tags)
-[![license](https://badgen.net/github/license/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/blob/master/LICENSE)
+[![license](https://badgen.net/github/license/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/blob/v6/LICENSE)
 [![contributors](https://badgen.net/github/contributors/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/CONTRIBUTING.md)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/releases)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/tags)
@@ -38,21 +38,21 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms)
 
 [comment]: <> (scrutinizer-ci.com)
-[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
-[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
-[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/think-qiniu-sms/v6)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/think-qiniu-sms/v6)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/think-qiniu-sms/v6)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
 
 [comment]: <> (www.travis-ci.com)
-[![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/think-qiniu-sms/master)](https://www.travis-ci.com/github/dtapps/think-qiniu-sms)
+[![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/think-qiniu-sms/v6)](https://www.travis-ci.com/github/dtapps/think-qiniu-sms)
 
 [comment]: <> (app.codecov.io)
-[![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/think-qiniu-sms/master)](https://app.codecov.io/gh/dtapps/think-qiniu-sms)
+[![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/think-qiniu-sms/v6)](https://app.codecov.io/gh/dtapps/think-qiniu-sms)
 
 [comment]: <> (gitlab.com)
-[![gitlab (.com)](https://gitlab.com/dtapps/think-qiniu-sms/badges/master/pipeline.svg)](https://gitlab.com/dtapps/think-qiniu-sms)
+[![gitlab (.com)](https://gitlab.com/dtapps/think-qiniu-sms/badges/v6/pipeline.svg)](https://gitlab.com/dtapps/think-qiniu-sms)
 
 [comment]: <> (codechina.csdn.net)
-[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/think-qiniu-sms/badges/master/pipeline.svg)](https://codechina.csdn.net/dtapps/think-qiniu-sms)
+[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/think-qiniu-sms/badges/v6/pipeline.svg)](https://codechina.csdn.net/dtapps/think-qiniu-sms)
 
 
 ## 依赖环境
