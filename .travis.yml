@@ -1,10 +1,10 @@
 language: php
-
 go:
   - '7.1'
-
 script:
   - composer update -vvv
-
+branches:
+  only:
+    - v6
 after_success:
   - bash <(curl -s https://codecov.io/bash)
