@@ -68,29 +68,29 @@
 
 ### 开发版
 
-```text
+```php
 composer require dtapps/think-qiniu-sms ^6.x-dev -vvv
 ```
 
 ### 稳定版
 
-```text
+```php
 composer require dtapps/think-qiniu-sms ^6.0.* -vvv
 ```
 
 ## 更新
 
-```text
+```php
 composer update dtapps/think-qiniu-sms -vvv
 ```
 
 ## 删除
 
-```text
+```php
 composer remove dtapps/think-qiniu-sms -vvv
 ```
 
-## 获取电脑Mac地址服务使用示例
+## 服务使用示例
 
 ```php
 use dtapps\qiniu\sms\SmsService;
