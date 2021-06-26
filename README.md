@@ -1,18 +1,59 @@
-<img align="right" width="100" src="https://kodo-cdn.dtapp.net/04/999e9f2f06d396968eacc10ce9bc8a.png" alt="www.dtapp.net"/>
+<img width="100" src="https://kodo-cdn.dtapp.net/04/999e9f2f06d396968eacc10ce9bc8a.png" alt="www.dtapp.net"/>
 
-<h1 align="left"><a href="https://www.dtapp.net/">ThinkPHP6七牛云短信扩展包</a></h1>
+<h1><a href="https://www.dtapp.net/">ThinkPHP6七牛云短信扩展包</a></h1>
 
 📦 ThinkPHP6七牛云短信扩展包
 
-[![Code Health](https://hn.devcloud.huaweicloud.com/codecheck/v1/codecheck/task/codehealth.svg?taskId=7f6315dba5174c6f919258313e055f1d)](https://hn.devcloud.huaweicloud.com/codecheck/project/b7a03c9ea96e40cb93fed6e23a27a7be/codecheck/task/7f6315dba5174c6f919258313e055f1d/detail)
+[comment]: <> (dtapps)
+[![GitHub Org's stars](https://img.shields.io/github/stars/dtapps)](https://github.com/dtapps)
+
+[comment]: <> (php)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D7.1-8892BF.svg)](http://www.php.net/)
+[![godoc](https://pkg.go.dev/badge/github.com/dtapps/think-qiniu-sms?status.svg)](https://pkg.go.dev/github.com/dtapps/think-qiniu-sms)
+
+[comment]: <> (packagist.org)
+[![License](https://poser.pugx.org/dtapps/think-qiniu-sms/license)](https://packagist.org/packages/dtapps/think-qiniu-sms)
 [![Latest Stable Version](https://poser.pugx.org/dtapps/think-qiniu-sms/v/stable)](https://packagist.org/packages/dtapps/think-qiniu-sms)
 [![Latest Unstable Version](https://poser.pugx.org/dtapps/think-qiniu-sms/v/unstable)](https://packagist.org/packages/dtapps/think-qiniu-sms)
 [![Total Downloads](https://poser.pugx.org/dtapps/think-qiniu-sms/downloads)](https://packagist.org/packages/dtapps/think-qiniu-sms)
-[![License](https://poser.pugx.org/dtapps/think-qiniu-sms/license)](https://packagist.org/packages/liguangchun/think-library)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D7.1-8892BF.svg)](http://www.php.net/)
-[![Build Status](https://travis-ci.org/GC0202/ThinkLibrary.svg?branch=6.0)](https://travis-ci.org/dtapps/think-qiniu-sms)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms/badges/quality-score.png?b=6.0)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms/?branch=6.0)
-[![Code Coverage](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms/badges/coverage.png?b=6.0)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms/?branch=6.0)
+
+[comment]: <> (github.com)
+[![watchers](https://badgen.net/github/watchers/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/watchers)
+[![stars](https://badgen.net/github/stars/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/stargazers)
+[![forks](https://badgen.net/github/forks/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/network/members)
+[![issues](https://badgen.net/github/issues/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/issues)
+[![branches](https://badgen.net/github/branches/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/branches)
+[![releases](https://badgen.net/github/releases/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/releases)
+[![tags](https://badgen.net/github/tags/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/tags)
+[![license](https://badgen.net/github/license/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/blob/master/LICENSE)
+[![contributors](https://badgen.net/github/contributors/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/CONTRIBUTING.md)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/releases)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/tags)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms/issues)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/dtapps)](https://github.com/dtapps/think-qiniu-sms/FUNDING.yml)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms)
+[![GitHub language count](https://img.shields.io/github/languages/count/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms)
+[![GitHub search hit counter](https://img.shields.io/github/search/dtapps/think-qiniu-sms/php)](https://github.com/dtapps/think-qiniu-sms)
+[![GitHub top language](https://img.shields.io/github/languages/top/dtapps/think-qiniu-sms)](https://github.com/dtapps/think-qiniu-sms)
+
+[comment]: <> (scrutinizer-ci.com)
+[![Scrutinizer build (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/build/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+[![Scrutinizer coverage (GitHub/BitBucket)](https://img.shields.io/scrutinizer/coverage/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+[![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/dtapps/think-qiniu-sms/master)](https://scrutinizer-ci.com/g/dtapps/think-qiniu-sms)
+
+[comment]: <> (www.travis-ci.com)
+[![Travis (.com) branch](https://img.shields.io/travis/com/dtapps/think-qiniu-sms/master)](https://www.travis-ci.com/github/dtapps/think-qiniu-sms)
+
+[comment]: <> (app.codecov.io)
+[![Codecov branch](https://img.shields.io/codecov/c/github/dtapps/think-qiniu-sms/master)](https://app.codecov.io/gh/dtapps/think-qiniu-sms)
+
+[comment]: <> (gitlab.com)
+[![gitlab (.com)](https://gitlab.com/dtapps/think-qiniu-sms/badges/master/pipeline.svg)](https://gitlab.com/dtapps/think-qiniu-sms)
+
+[comment]: <> (codechina.csdn.net)
+[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/think-qiniu-sms/badges/master/pipeline.svg)](https://codechina.csdn.net/dtapps/think-qiniu-sms)
+
 
 ## 依赖环境
 

@@ -1,0 +1,7 @@
+language: php
+
+go:
+  - '7.1'
+
+script:
+  - composer update -vvv
